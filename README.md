@@ -1,10 +1,3 @@
-<p align="center">
-  <img width=20px src="readme/attencion.svg">
-  <b>ON PROGRESS...</b>
-  <img width=20px src="readme/attencion.svg">
-</p>
-<br>
-<br>
 <h1 align="center">JS Form Request</h1>
 <p align="center">A form request made with JavaScript</p>
 
