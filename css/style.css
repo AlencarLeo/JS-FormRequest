@@ -66,3 +66,20 @@ body{
     color: black;
     background-color: #07ffff;
 }
+
+.form-container form label.error{
+    color: red;
+}
+.form-container form input.error{
+    border-bottom: 1px solid red;
+}
+
+.error-notification{
+    width: 100px;
+    height: 50px;
+    transform: translate(-50%, -50%);
+    top: calc(50% - 150px);
+    left: calc(50% - 200px);
+    background-color: red;
+    position: absolute;
+}

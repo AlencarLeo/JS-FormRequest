@@ -13,15 +13,18 @@
 <body> 
     <div class="form-container">
         <h1>Form Request</h1>
-        <form action="">
-            <label for="">email</label>
+        <form action="" autocomplete="off">
+            <label for="" class="email-label">email</label>
             <input type="email" id="email">
 
-            <label for="">password</label>
+            <label for="" class="password-label">password</label>
             <input type="password" id="password">
 
             <input type="submit" id="btn" value="Login">
         </form>
+    </div>
+
+    <div class="error-notification">
     </div>
 <script src="js/script.js"></script>
 </body>
