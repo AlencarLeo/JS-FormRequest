@@ -15,7 +15,7 @@
   <img alt="GitHub" src="https://img.shields.io/github/license/AlencarLeo/JS-FormRequest?style=for-the-badge">
 </p>
 <p align="center">
-  <img src="assets/readme/demo.gif">
+  <img src="readme/demo.gif">
 </p>
 
 <h2>🔥Technologies</h2>
